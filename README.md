@@ -94,3 +94,10 @@ npm test
 ---
 
 ## 🏆 Enjoy your Product Catalog!
+
+Swagger:
+<img width="1436" height="892" alt="image" src="https://github.com/user-attachments/assets/64e719ed-79e7-444d-ad2b-9ea4876930cc" />
+
+Web App:
+Basic Products Screen: <img width="1160" height="897" alt="image" src="https://github.com/user-attachments/assets/030a6c71-ca1d-4af4-a2f0-92c3c5d5ab1f" />
+Search Criteria: <img width="1182" height="880" alt="image" src="https://github.com/user-attachments/assets/fc235951-9ace-4a97-8209-a840383a1342" />
