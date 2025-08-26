@@ -1,0 +1,27 @@
+@ProductCatalog.API_HostAddress = http://localhost:5045
+
+### Get all products
+GET {{ProductCatalog.API_HostAddress}}/api/products
+Accept: application/json
+
+### Get products with pagination and sorting
+GET {{ProductCatalog.API_HostAddress}}/api/products?page=1&pageSize=10&sortBy=price&sortDirection=desc
+Accept: application/json
+
+### Search products
+GET {{ProductCatalog.API_HostAddress}}/api/products/search?query=electronics&page=1&pageSize=10
+Accept: application/json
+
+### Get product by ID
+GET {{ProductCatalog.API_HostAddress}}/api/products/1
+Accept: application/json
+
+### Generate sample products
+POST {{ProductCatalog.API_HostAddress}}/api/products/generate
+Content-Type: application/json
+
+{
+    "count": 1000
+}
+
+###

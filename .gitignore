@@ -1,0 +1,19 @@
+# .NET
+bin/
+obj/
+*.user
+*.vs/
+
+# Node
+node_modules/
+build/
+dist/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# IDE
+.vscode/
+.idea/
